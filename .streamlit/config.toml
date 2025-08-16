@@ -1,0 +1,12 @@
+[theme]
+# This backgroundColor is a fallback if the image fails or for areas not covered by the image.
+backgroundColor="#ffffff"
+textColor="#000000"
+
+[global]
+# This path MUST correctly point to your image file, relative to your main.py.
+backgroundImage = "images/nezuko.jpeg"
+backgroundImageFit = "cover"
+backgroundImageRepeat = "no-repeat"
+backgroundImageAttachment = "fixed"
+backgroundImagePosition = "center center"
